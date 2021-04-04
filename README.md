@@ -1,3 +1,8 @@
+Please feel free to check my work by clicking this live website for movie search app - https://606a312f352033ac408e0e02--focused-panini-3a110c.netlify.app/ 
+
+This Application is using API data from "https://api.themoviedb.org/" for searching movies from database
+
+----------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
