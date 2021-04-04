@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import './style.css';
 import { useState } from 'react';
 import MovieCard from './card.js'
